@@ -16,5 +16,6 @@ A checklist of creating linux user for sshd
 
 ## Recommended
 
+1. PermitRootLogin no
 1. PasswordAuthentication no
 1. Port `not 22`
